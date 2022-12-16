@@ -1,4 +1,4 @@
-# gestorCuentas
+# Gestor de Cuentas
 PRACTICA JAVA
 
 Realizar una clase llamada Cuenta (bancaria) que debe tener como mínimo los atributos:
